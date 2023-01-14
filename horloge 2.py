@@ -1,4 +1,4 @@
-# Créé par jerome, le 22/04/2022 en Python 3.7
+
 import time
 import datetime as dt
 import turtle
